@@ -1,0 +1,8 @@
+spring:
+  data:
+    arangodb:
+      hosts:
+        - localhost:8529
+      database: test
+      user: root
+      password: secret-password
